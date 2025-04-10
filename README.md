@@ -1,6 +1,6 @@
 # QA-Management-System
-![](images/sharePointForm.jpg)
-![](images/pdfForm.jpg)
-![](images/barcode.jpg)
-![](images/closureProgram.png)
-![](images/closureStation.jpg)
+<img src="images/sharePointForm.jpg" width="400"/>
+<img src="images/pdfForm.jpg" width="400"/>
+<img src="images/barcode.jpg" width="400"/>
+<img src="images/closureProgram.png" width="400"/>
+<img src="images/closureStation.jpg" width="400"/>
